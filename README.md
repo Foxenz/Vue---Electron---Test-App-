@@ -1,5 +1,8 @@
 # vue-desktop
 
+## Lien du tuto 
+https://blog.logrocket.com/building-app-electron-vue/
+
 ## Project setup
 ```
 npm install
